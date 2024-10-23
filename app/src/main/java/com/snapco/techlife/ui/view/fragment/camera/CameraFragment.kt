@@ -33,6 +33,8 @@ class CameraFragment : Fragment() {
     private lateinit var switchCameraButton: Button
     private val cameraViewModel: CameraViewModel by viewModels()
 
+    //thử
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
